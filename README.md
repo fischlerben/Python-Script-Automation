@@ -4,4 +4,3 @@ This is an example of a script, written in Python, that uses a for-loop to parse
 
 ### The resulting analysis gives you the following pieces of information:
 ![summary_text](/Screenshots/summary_text.png?raw=true)
-=======
